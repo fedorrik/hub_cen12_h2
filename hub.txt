@@ -1,0 +1,6 @@
+hub cen12_h2
+shortLabel cen12_h2
+longLabel cen12_h2
+genomesFile genomes.txt
+email  fedorrik1@gmail.com
+
