@@ -2,5 +2,5 @@ genome cen12_h2
 trackDb trackDb.txt
 twoBitPath cen12_h2.2bit
 organism Homo Sapiens
-defaultPos HG02630:34252920-39136934
+defaultPos HG02630#cen12_h2:34252920-39136934
 
