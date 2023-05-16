@@ -50,14 +50,27 @@ type bigBed 9
 itemRgb on
 maxItems 100000
 
-track horHap
+track horhap_v1-0
 type bigBed
-bigDataUrl bb/horHap.bb
-shortLabel horHap
-longLabel horHap
+bigDataUrl bb/horhap_v1-0.bb
+shortLabel horhap_v1-0
+longLabel horhap_v1-0
 itemRgb on
 group Centromere
 priority 5
+visibility dense
+type bigBed 9
+itemRgb on
+maxItems 100000
+
+track horhap_v1-1
+type bigBed
+bigDataUrl bb/horhap_v1-1.bb
+shortLabel horhap_v1-1
+longLabel horhap_v1-1
+itemRgb on
+group Centromere
+priority 6
 visibility dense
 type bigBed 9
 itemRgb on
